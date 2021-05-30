@@ -1,0 +1,31 @@
+"tomatometer_status","country","n"
+"Certified-Fresh","United Kingdom",124
+"Certified-Fresh","Canada",49
+"Certified-Fresh","France",40
+"Certified-Fresh","India",31
+"Certified-Fresh","Germany",20
+"Certified-Fresh","Australia",18
+"Certified-Fresh","China",18
+"Certified-Fresh","Hong Kong",14
+"Certified-Fresh","Japan",11
+"Certified-Fresh","Belgium",10
+"Fresh","United Kingdom",46
+"Fresh","Canada",25
+"Fresh","Germany",20
+"Fresh","India",19
+"Fresh","France",17
+"Fresh","Australia",13
+"Fresh","China",12
+"Fresh","Hong Kong",8
+"Fresh","South Korea",6
+"Fresh","Indonesia",5
+"Rotten","United Kingdom",116
+"Rotten","Canada",70
+"Rotten","France",53
+"Rotten","Germany",43
+"Rotten","India",36
+"Rotten","Australia",21
+"Rotten","China",17
+"Rotten","Belgium",14
+"Rotten","Spain",12
+"Rotten","Italy",11
