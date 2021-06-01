@@ -1,0 +1,43 @@
+"country","continent","num_crime_contents","homicide_rate","total_num_contents"
+"Argentina","Americas",6,5.94256445075001,82
+"Australia","Oceania",8,0.941156077816376,144
+"Austria","Europe",1,0.655219649857976,11
+"Belgium","Europe",7,2.09820443863511,85
+"Brazil","Americas",5,29.5279564980517,88
+"Canada","Americas",15,1.68410454480005,412
+"Chile","Americas",1,3.46278280351677,26
+"China","Asia",4,0.615600711867487,147
+"Colombia","Americas",17,25.5043261481876,45
+"Cuba","Americas",1,4.98768643112986,1
+"Denmark","Europe",2,0.980681382327848,44
+"Egypt","Africa",1,1.34480151638088,110
+"Finland","Europe",2,1.41776937618147,11
+"France","Europe",20,1.35218684619834,349
+"Germany","Europe",16,1.17619285124739,199
+"Hong Kong","Asia",2,0.383242082937145,102
+"Iceland","Europe",2,0.300447727203078,9
+"India","Asia",9,3.22369940894267,990
+"Ireland","Europe",2,0.802079598210467,40
+"Israel","Asia",4,2.3130325016293,26
+"Italy","Europe",5,0.6730631628183,90
+"Japan","Asia",15,0.283523310660032,287
+"Lebanon","Asia",2,3.99310182314494,26
+"Malta","Europe",1,1.33174877068192,3
+"Mexico","Americas",29,19.2639600963009,154
+"Netherlands","Europe",2,0.553362904105035,45
+"Norway","Europe",2,0.514305228495527,29
+"Pakistan","Asia",1,4.40839526553216,24
+"Poland","Europe",6,0.670146170293168,35
+"Puerto Rico","Americas",1,18.5058713760721,1
+"Russia","Europe",6,10.8161823951361,27
+"Senegal","Africa",1,8.78611927708589,3
+"Singapore","Asia",4,0.320557936074194,39
+"South Africa","Africa",3,33.9709570254924,54
+"South Korea","Asia",23,0.701114184271391,212
+"Spain","Europe",27,0.633484517789215,215
+"Sweden","Europe",4,1.07776286849882,39
+"Taiwan","Asia",5,0.874098806075245,85
+"Thailand","Asia",5,3.2394372444387,65
+"Turkey","Asia",10,4.58050213237278,108
+"Ukraine","Europe",1,6.80446042155318,3
+"United Kingdom","Europe",46,1.2024106683055,722
